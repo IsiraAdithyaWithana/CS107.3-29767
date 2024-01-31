@@ -1,0 +1,7 @@
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\bin\Debug\Odd or even.exe.config
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\bin\Debug\Odd or even.exe
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\bin\Debug\Odd or even.pdb
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\obj\Debug\Odd or even.csprojAssemblyReference.cache
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\obj\Debug\Odd or even.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\obj\Debug\Odd or even.exe
+D:\NSBM\Semester 3\C #\Odd or even\Odd or even\obj\Debug\Odd or even.pdb

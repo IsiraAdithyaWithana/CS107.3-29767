@@ -1,0 +1,7 @@
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\bin\Debug\Student Grades.exe.config
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\bin\Debug\Student Grades.exe
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\bin\Debug\Student Grades.pdb
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\obj\Debug\Student Grades.csproj.AssemblyReference.cache
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\obj\Debug\Student Grades.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\obj\Debug\Student Grades.exe
+D:\NSBM\Semester 3\C #\Student Grades (Sheet 01-Task 06)\Student Grades\obj\Debug\Student Grades.pdb

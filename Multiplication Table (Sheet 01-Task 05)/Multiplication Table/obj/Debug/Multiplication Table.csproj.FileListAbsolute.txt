@@ -1,0 +1,7 @@
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.exe
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\bin\Debug\Multiplication Table.pdb
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csprojAssemblyReference.cache
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.exe
+D:\NSBM\Semester 3\C #\Multiplication Table\Multiplication Table\obj\Debug\Multiplication Table.pdb

@@ -1,0 +1,7 @@
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\bin\Debug\Sum of a number.exe.config
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\bin\Debug\Sum of a number.exe
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\bin\Debug\Sum of a number.pdb
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\obj\Debug\Sum of a number.csprojAssemblyReference.cache
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\obj\Debug\Sum of a number.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\obj\Debug\Sum of a number.exe
+D:\NSBM\Semester 3\C #\Sum of a number\Sum of a number\obj\Debug\Sum of a number.pdb
