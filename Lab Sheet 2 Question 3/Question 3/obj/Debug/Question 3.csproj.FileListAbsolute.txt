@@ -1,0 +1,7 @@
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\bin\Debug\Question 3.exe.config
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\bin\Debug\Question 3.exe
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\bin\Debug\Question 3.pdb
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\obj\Debug\Question 3.csproj.AssemblyReference.cache
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\obj\Debug\Question 3.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\obj\Debug\Question 3.exe
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 2\Question 3\Question 3\obj\Debug\Question 3.pdb
