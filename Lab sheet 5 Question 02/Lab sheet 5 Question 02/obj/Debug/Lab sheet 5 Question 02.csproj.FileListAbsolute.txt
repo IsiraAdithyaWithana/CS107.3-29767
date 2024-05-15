@@ -1,0 +1,11 @@
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\bin\Debug\Lab sheet 5 Question 02.exe.config
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\bin\Debug\Lab sheet 5 Question 02.exe
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\bin\Debug\Lab sheet 5 Question 02.pdb
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab sheet 5 Question 02.csproj.AssemblyReference.cache
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab_sheet_5_Question_02.Form1.resources
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab_sheet_5_Question_02.Form2.resources
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab_sheet_5_Question_02.Properties.Resources.resources
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab sheet 5 Question 02.csproj.GenerateResource.cache
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab sheet 5 Question 02.csproj.CoreCompileInputs.cache
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab sheet 5 Question 02.exe
+D:\NSBM\Semester 3\C #\Lab\Lab sheet 5\Lab sheet 5 Question 02\Lab sheet 5 Question 02\obj\Debug\Lab sheet 5 Question 02.pdb
