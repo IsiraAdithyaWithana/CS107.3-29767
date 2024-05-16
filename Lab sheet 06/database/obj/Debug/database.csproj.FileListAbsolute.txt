@@ -1,0 +1,30 @@
+D:\Education\C#\database\database\bin\Debug\Database1.mdf
+D:\Education\C#\database\database\bin\Debug\Database1_log.ldf
+D:\Education\C#\database\database\bin\Debug\database.exe.config
+D:\Education\C#\database\database\bin\Debug\database.exe
+D:\Education\C#\database\database\bin\Debug\database.pdb
+D:\Education\C#\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+D:\Education\C#\database\database\obj\Debug\database.Form1.resources
+D:\Education\C#\database\database\obj\Debug\database.Employee.resources
+D:\Education\C#\database\database\obj\Debug\database.Properties.Resources.resources
+D:\Education\C#\database\database\obj\Debug\database.csproj.GenerateResource.cache
+D:\Education\C#\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+D:\Education\C#\database\database\obj\Debug\database.exe
+D:\Education\C#\database\database\obj\Debug\database.pdb
+D:\Education\C#\database\database\obj\Debug\database.Contact.resources
+D:\Education\C#\database\database\obj\Debug\database.Display.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\bin\Debug\Database1.mdf
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\bin\Debug\Database1_log.ldf
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\bin\Debug\database.exe.config
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\bin\Debug\database.exe
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\bin\Debug\database.pdb
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.Form1.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.Employee.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.Contact.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.Display.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.Properties.Resources.resources
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.exe
+C:\Users\DELL\Desktop\C#\Lab Practicals\database\database\obj\Debug\database.pdb
